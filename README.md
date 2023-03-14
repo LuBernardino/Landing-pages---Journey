@@ -1,4 +1,4 @@
-<h1 align="center">Journey from zero to first wave!! 🏞️</h1>
+<h1 align="center">Journey from zero to first wave!! 🔖</h1>
 <br>
  
 🕸️Landing page Horror game.
