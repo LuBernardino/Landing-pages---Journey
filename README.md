@@ -1,7 +1,7 @@
 <h1 align="center">Journey from zero to first wave!! 🔖</h1>
 <br>
  
-🕸️Landing page Horror game.
+## 🕸️Landing page Horror game.
 
 <p align="left">
   <img alt="Project Landing page horror game" src="LP Horror game/Horror Game LP-1.png" width="80%">
