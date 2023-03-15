@@ -1,5 +1,7 @@
 <h1 align="center">Journey from zero to first wave!! 🔖</h1>
 <br>
+<p align="center">Project developed during Rocketseat's "Jornada first wave" event.</p>
+ <br>
  
 ## 🕸️Landing page Horror game.
 
